@@ -12,7 +12,7 @@ We use six widely adopted image classification datasets, covering grayscale and 
 | Fashion-MNIST | 10 | 60,000 | 10,000 | 28×28 (grayscale) | `keras.datasets.fashion_mnist` |
 | CIFAR-10 | 10 | 50,000 | 10,000 | 32×32×3 | `keras.datasets.cifar10` |
 | SVHN | 10 | 73,257 | 26,032 | 32×32×3 | <http://ufldl.stanford.edu/housenumbers/> |
-| Fruits-360 | 141 | 70,589 | 23,619 | 100×100×3 | <https://github.com/fruits-360/fruits-360-100x100> (100×100 version) |
+| Fruits-360 | 141 | 70,589 | 23,619 | 100×100×3 | <https://github.com/fruits-360/fruits-360-100x100> |
 | TinyImageNet | 200 | 100,000 | 10,000 | 64×64×3 | <https://www.kaggle.com/c/tiny-imagenet/data> |
 
 Notes:
