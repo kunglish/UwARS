@@ -1,6 +1,6 @@
 # Experimental Subjects: Datasets and Models
 
-This document describes the datasets and DNN models used in the experiments of **UwARS** (Uncertainty-weighted Adaptive Random Selection for DNN test selection). Our experimental subjects follow those of SETS (Wang et al., TOSEM 2026); the dataset sources and pretrained models below are consistent with the official SETS replication package: <https://github.com/GIST-NJU/SETS>.
+This document describes the datasets and DNN models used in the experiments of **UwARS** (Uncertainty-weighted Adaptive Random Selection for DNN test selection). Our experimental subjects follow those of SETS: A Simple yet Effective DNN Test Selection Approach (Wang et al., TOSEM 2026); the dataset sources and pretrained models below are consistent with the official SETS replication package: <https://github.com/GIST-NJU/SETS>.
 
 ## 1. Datasets
 
